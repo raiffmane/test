@@ -1,1 +1,2 @@
 # test
+# moj pierwszy commit
